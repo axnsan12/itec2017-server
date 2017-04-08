@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+marshmallow-sqlalchemy
+google-api-python-client
+inflection
